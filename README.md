@@ -253,13 +253,13 @@ Database
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/taskflow.git
+git clone https://github.com/VOTRE_USERNAME/laravel-react.git
 ```
 
 Entrer dans le projet :
 
 ```bash
-cd taskflow
+cd laravel-react
 ```
 
 ---
