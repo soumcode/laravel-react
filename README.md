@@ -253,7 +253,7 @@ Database
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/laravel-react.git
+git clone https://github.com/soumcode/laravel-react.git
 ```
 
 Entrer dans le projet :
